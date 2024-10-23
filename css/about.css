@@ -1,0 +1,16 @@
+/* The font is Noto-Sans: https://fonts.google.com/noto/specimen/Noto+Sans */
+
+:root {
+  --black: #000;
+  --white: #fff;
+  --gray: #a0a0a0;
+  --light-gray: #d0d0d0;
+  --red: #fa5c5c;
+  --light-red: #fdaeae;
+  --orange: #e97230;
+  --yellow: #ece653;
+  --green: #58c15e;
+  --light-green: #ace0af;
+  --blue: #309de9;
+  --light-blue: #99cef5;
+}
